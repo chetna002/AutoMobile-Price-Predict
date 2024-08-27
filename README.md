@@ -1,5 +1,6 @@
-Automobile Case Price Prediction Dataset
-This repository contains the EDA_Automobile_Case_Price_pred.csv dataset, which is used for predicting automobile case prices. It is suitable for exploratory data analysis (EDA) and building predictive models for automobile pricing.
+Automobile Case Price Prediction Dataset:
+
+     This repository contains the EDA_Automobile_Case_Price_pred.csv dataset, which is used for predicting automobile case prices. It is suitable for exploratory data analysis (EDA) and building predictive models for automobile pricing.
 
 Dataset Details
 
